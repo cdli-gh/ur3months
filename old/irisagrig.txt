@@ -1,0 +1,210 @@
+	<tr valign="top">
+		<td align="left" valign="top" width="75">
+			šu-gar(-gal) 
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+			1 
+		</td>
+	</tr>
+	<tr valign="top">
+		<td align="left" valign="top" width="75">
+			<sup>geš</sup>apin 
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+			2 
+		</td>
+	</tr>
+	<tr valign="top">
+		<td align="left" valign="top" width="75">
+			ezem-a-bi 
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+			5 
+		</td>
+	</tr>
+	<tr valign="top">
+		<td align="left" valign="top" width="75">
+			gi-sig-ga 
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+			6 
+		</td>
+	</tr>
+	<tr valign="top">
+		<td align="left" valign="top" width="75">
+			nig<sub>2</sub>-<sup>d</sup>en-lil<sub>2</sub>-la<sub>2</sub> 
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+			8 
+		</td>
+	</tr>
+	<tr valign="top">
+		<td align="left" valign="top" width="75">
+			ezem-a-dara<sub>4</sub> 
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+			9 
+		</td>
+	</tr>
+	<tr valign="top">
+		<td align="left" valign="top" width="75">
+			nig<sub>2</sub>-e-ga 
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+		</td>
+		<td align="center" valign="top" width="50">
+			10 
+		</td>
+	</tr>
